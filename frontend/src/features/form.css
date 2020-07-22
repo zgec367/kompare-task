@@ -1,0 +1,11 @@
+.button {
+  min-width: 120px;
+  margin: 2px;
+  float: right;
+  font-size: 15px;
+  font-weight: 600;
+  color: #343a40;
+}
+.modal {
+  background-color: burlywood;
+}

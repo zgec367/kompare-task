@@ -1,0 +1,16 @@
+INSTALIRANJE APLIKACIJE:
+
+1. raspakirati (unzipati) .zip file u željeni dokument.
+2. u komandnoj liniji CMD, terminalu (ovisi o vrsti operativnog sustava) ili ako Vaš code editor
+podržava Terminal, pozicionirati se u folder kompare-zadatak-master te zatim u svaki od foldera backend/frontend
+3. pokrenuti naredbu npm install
+4. nakon završetka instalacije node modulsa pokrenuti naredbu npm start u oba foldera
+5. u Vašem default browseru će se otvoriti aplikacija najčešće pod localhost:3000
+
+UPORABA APLIKACIJE:
+
+Aplikacija prilikom pokretanja otvara stranicu TableList koja prikazuje tablicu s popisom zaposlenika
+Unutar okvira prikaza nalazi se dugme za otvaranje dialoga unutar kojega možete dodati novog zaposlenika
+Ukoliko niste ispravno popunili podatke bit će prikazane odgovarajuće poruke
+Pored svakog zaposlenika u tablici nalazi se dugme za brisanje
+Ukoliko se prilikom operacija dogodi greška bit ćete obaviješteni putem jednostavne poruke u gornjem dijelu tabelarnog okvira

@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-color: burlywood;
+  height: 100vh;
+}
+$theme-colors: (
+  "primary": #deb887,
+  "secondary": #ffffff,
+);
+@import "~bootstrap/scss/bootstrap.scss";
